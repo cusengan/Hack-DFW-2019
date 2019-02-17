@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="createTournament">Create Tournament</string>
+    <string name="signIn">Sign In</string>
 </resources>
